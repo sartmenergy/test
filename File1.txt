@@ -6,3 +6,4 @@ comit test
 Add Line
 3line
 new branch line
+conflictbranch
